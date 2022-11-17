@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1305012",
+      "name": "Headset-2",
+      "font_class": "18erji-2",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "2076319",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e8a3",
+      "unicode_decimal": 59555
+    },
+    {
+      "icon_id": "10014310",
+      "name": "麦克风",
+      "font_class": "microphone",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "11372716",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e8bb",
+      "unicode_decimal": 59579
+    }
+  ]
+}
